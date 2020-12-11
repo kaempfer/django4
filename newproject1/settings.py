@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pgs%jb6ei27xg)3dr#)u=teu)ouhrb(s02b*4gm48zq2d1$3kk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [django4.hostman.site]
 
 
 # Application definition
